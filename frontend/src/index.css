@@ -1,0 +1,22 @@
+:root {
+    --putih: #f4f4f4;
+    --kuning: #f4f474;
+    --pink: #dd219e;
+    --matte-black: #171717;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #8fbc8f;
+}
+
+img {
+    width: 100%;
+    object-fit: contain;
+}
